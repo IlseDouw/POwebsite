@@ -1,0 +1,84 @@
+body { 
+      background-color: #95C2F4;
+}
+
+
+h1 {
+    color: #1C5798;
+}
+
+
+h3 {
+    color: #5593D9;
+}
+
+
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1C5798;       
+}
+
+.tekst-normaal {
+    margin-left:10px;
+    margin-right:20px;
+}
+
+
+li a {
+    float: left;
+    display: block;
+    color: white;
+   
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #1C5798;
+}
+
+.foto {    
+    float: left;
+    margin: 10px;
+    margin-top: 0px;
+    width: 250px;
+    margin-left: 0px;
+}
+
+#Barbara-Liskov {
+    float: left;
+    height: 250px;
+    margin: 10px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+#Shafi-Goldwasser {    
+    float: left;
+    margin: 10px;
+    margin-top: 0px;
+    height: 188px;
+    margin-left: 0px;
+}
+
+#info1 {
+    height:250px;
+}
+
+#info2 {
+    height:188px;
+}
+
+#info3 {
+    height:290px;
+}
+
+#info4 {
+    height:205px;
+}
+
+.footer {
+    background-color: #1C5798;
+    color: white;
+}
+
